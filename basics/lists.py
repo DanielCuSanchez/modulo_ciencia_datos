@@ -1,4 +1,4 @@
-
+# Allow duplicated values, changeable, can also contain different data types
 newList = ["Darwin", "Migue","Pau","Esteban", 2, 4.5, True, 2, 4.5]
 
 print(type(newList))
